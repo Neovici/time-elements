@@ -875,6 +875,7 @@
   }
 
   exports.LocalTimeElement = LocalTimeElement;
+  exports.RelativeTime = RelativeTime;
   exports.RelativeTimeElement = RelativeTimeElement;
   exports.TimeAgoElement = TimeAgoElement;
   exports.TimeUntilElement = TimeUntilElement;
